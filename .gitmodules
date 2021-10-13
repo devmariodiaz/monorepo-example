@@ -1,0 +1,6 @@
+[submodule "school-full-app"]
+	path = school-full-app
+	url = https://github.com/devmariodiaz/school-full-app.git
+[submodule "node-api-backend"]
+	path = node-api-backend
+	url = https://github.com/devmariodiaz/node-api-backend.git
